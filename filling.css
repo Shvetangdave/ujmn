@@ -1,0 +1,87 @@
+
+
+
+
+#h{
+    font-size: 65px;
+    font-weight: 50;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(146, 69, 69);
+}
+
+#red{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: red;
+}
+
+#white{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(250, 248, 248);
+}
+
+#Blue{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(7, 7, 243);
+}
+
+#pink{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(255, 0, 191);
+}
+
+
+#black{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    
+    
+}
+#orange{
+    width: 190px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(255, 174, 0);
+}
+#brown{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(88, 52, 4);
+    color: wheat;
+}
+#grey{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(99, 96, 91);
+}
+#green{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(0, 255, 30);
+}
+#yellow{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(208, 255, 0);
+}
+#ad{
+    width: 650px;
+    height: 100px;
+    font-size: 30px;
+    background-color: rgb(0, 204, 255);
+}
+

@@ -1,0 +1,54 @@
+#two{
+    height:100px;
+    width:200px;
+    font-size: 70px;
+}
+
+#six{
+    height:100px;
+    width:200px;
+    font-size: 70px;
+}       
+
+
+#eight{
+    height:100px;
+    width:200px;
+    font-size: 70px;
+} 
+
+#five{
+    height:100px;
+    width:200px;
+    font-size: 70px;
+}    
+
+
+
+#nfirst{
+    float: left;
+    padding-left: 580px;
+    background-color: red;
+    }
+    #se{
+    float: right;
+    padding-right: 580px;
+    background-color: red;
+    }
+
+    #n{
+        font-size: 250px;
+        color: rgb(0, 255, 229);
+        
+    }
+    
+    #star{
+        font-size: 50px;
+        color: rgb(94, 255, 0);
+    }
+
+
+
+
+
+

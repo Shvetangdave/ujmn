@@ -1,0 +1,26 @@
+#Yes{
+    width: 300px;
+    height: 200px;
+    font-size: 40px;
+    background-color: rgb(172, 100, 100);
+}
+
+#no{
+    width: 300px;
+    height: 200px;
+    font-size: 40px;
+    background-color: aqua;
+}
+
+#other{
+    width: 300px;
+    height: 200px;
+    font-size: 40px;
+    background-color: aquamarine;
+}
+#achi{
+font-size: 100px;
+}
+#ach2{
+font-size: 100px;
+}

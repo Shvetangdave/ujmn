@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+}
+
+#inst{
+
+   color: blue;
+}
+
+#n{
+    font-size: 250px;
+    color: red;
+    
+}
+
+#star{
+    font-size: 50px;
+    color: blue;
+}
+
+ 
+
+#six{
+    height: 200px;
+    width: 200px;
+    font-size: 70px;
+}
+#one{
+    height: 200px;
+    width: 200px;
+    font-size: 70px;
+}
+#five{
+    height: 200px;
+    width: 200px;
+    font-size: 70px;
+}
+#seven{
+    height: 200px;
+    width: 200px;
+    font-size: 70px;
+}
+

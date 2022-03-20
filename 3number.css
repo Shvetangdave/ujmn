@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+
+}
+
+#three
+{
+    font-size: 150px;
+    font-weight: bolder;
+}
+
+
+#spellthree{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
+
+}
+
+
+
+#speaking{
+ 
+    height:100px;
+    width:300px;
+ 
+ 
+}
+
+#two{
+ 
+    height:100px;
+    width:300px;
+    font-size: 50px;
+ 
+}
+
+#four{
+ 
+    height:100px;
+    width:300px;
+    font-size: 50px;
+ 
+}
